@@ -7,7 +7,7 @@ Me interesa crear soluciones tecnológicas innovadoras que integren **frontend, 
 ---
 
 ## 🔧 Habilidades
-- **Frontend:** React, Vite, TypeScript, CSS  
+- **Frontend:** React, Vite, TypeScript, JavaScript, CSS, Html  
 - **Backend:** Node.js, Express  
 - **Bases de datos:** MongoDB, MySQL, Supabase  
 - **Otros:** Git, GitHub, VS Code, Postman, Firebase, Render, Vercel  
